@@ -1,0 +1,20 @@
+C:\Users\ginka\Desktop\Sem5\Grafika Komputerowa 1\Projekt 2\GKProject2\GKProject2\bin\Debug\GKProject2.exe.config
+C:\Users\ginka\Desktop\Sem5\Grafika Komputerowa 1\Projekt 2\GKProject2\GKProject2\bin\Debug\GKProject2.exe
+C:\Users\ginka\Desktop\Sem5\Grafika Komputerowa 1\Projekt 2\GKProject2\GKProject2\bin\Debug\GKProject2.pdb
+C:\Users\ginka\Desktop\Sem5\Grafika Komputerowa 1\Projekt 2\GKProject2\GKProject2\obj\Debug\GKProject2.csprojAssemblyReference.cache
+C:\Users\ginka\Desktop\Sem5\Grafika Komputerowa 1\Projekt 2\GKProject2\GKProject2\obj\Debug\GKProject2.Form1.resources
+C:\Users\ginka\Desktop\Sem5\Grafika Komputerowa 1\Projekt 2\GKProject2\GKProject2\obj\Debug\GKProject2.Properties.Resources.resources
+C:\Users\ginka\Desktop\Sem5\Grafika Komputerowa 1\Projekt 2\GKProject2\GKProject2\obj\Debug\GKProject2.csproj.GenerateResource.cache
+C:\Users\ginka\Desktop\Sem5\Grafika Komputerowa 1\Projekt 2\GKProject2\GKProject2\obj\Debug\GKProject2.csproj.CoreCompileInputs.cache
+C:\Users\ginka\Desktop\Sem5\Grafika Komputerowa 1\Projekt 2\GKProject2\GKProject2\obj\Debug\GKProject2.exe
+C:\Users\ginka\Desktop\Sem5\Grafika Komputerowa 1\Projekt 2\GKProject2\GKProject2\obj\Debug\GKProject2.pdb
+C:\Users\ginka\Desktop\Sem5\GK1\Projekt 2\GKProject2\GKProject2\bin\Debug\GKProject2.exe.config
+C:\Users\ginka\Desktop\Sem5\GK1\Projekt 2\GKProject2\GKProject2\bin\Debug\GKProject2.exe
+C:\Users\ginka\Desktop\Sem5\GK1\Projekt 2\GKProject2\GKProject2\bin\Debug\GKProject2.pdb
+C:\Users\ginka\Desktop\Sem5\GK1\Projekt 2\GKProject2\GKProject2\obj\Debug\GKProject2.csprojAssemblyReference.cache
+C:\Users\ginka\Desktop\Sem5\GK1\Projekt 2\GKProject2\GKProject2\obj\Debug\GKProject2.Form1.resources
+C:\Users\ginka\Desktop\Sem5\GK1\Projekt 2\GKProject2\GKProject2\obj\Debug\GKProject2.Properties.Resources.resources
+C:\Users\ginka\Desktop\Sem5\GK1\Projekt 2\GKProject2\GKProject2\obj\Debug\GKProject2.csproj.GenerateResource.cache
+C:\Users\ginka\Desktop\Sem5\GK1\Projekt 2\GKProject2\GKProject2\obj\Debug\GKProject2.csproj.CoreCompileInputs.cache
+C:\Users\ginka\Desktop\Sem5\GK1\Projekt 2\GKProject2\GKProject2\obj\Debug\GKProject2.exe
+C:\Users\ginka\Desktop\Sem5\GK1\Projekt 2\GKProject2\GKProject2\obj\Debug\GKProject2.pdb
